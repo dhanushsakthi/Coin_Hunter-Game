@@ -1,0 +1,15 @@
+🛠️ Installation & Setup
+
+#Prerequisites
+
+Python 3.x installed on your system
+Turtle graphics library (comes with Python)
+
+#Required Assets
+
+Make sure you have these image files in your project directory:
+
+goldhunt.gif - Background image (tropical island scene)
+left.gif - Left-facing hunter sprite
+right.gif - Right-facing hunter sprite
+coin.gif - Gold coin sprite
